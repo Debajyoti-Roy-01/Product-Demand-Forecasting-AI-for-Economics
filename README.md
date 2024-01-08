@@ -9,12 +9,12 @@ both are predicted on a weekly basis
 
 We tried Multiple models like :
 
-Linear Regression
-Polynomial Regression
-Decision Tree Regressor
-Random Forest Regressor
-XGBOOST Regressor
-LSTM
+i.Linear Regression,
+2.Polynomial Regression,
+3.Decision Tree Regressor,
+4.Random Forest Regressor,
+5.XGBOOST Regressor,
+6.LSTM.
 Among all the models, Random Forest Regressor performed the best.
 
 You can visit the site : https://skudemandforecasting.streamlit.app/ to see the app in action !
