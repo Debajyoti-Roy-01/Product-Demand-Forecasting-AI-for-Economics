@@ -9,7 +9,7 @@ both are predicted on a weekly basis
 
 We tried Multiple models like :
 
-i.Linear Regression,
+1.Linear Regression,
 2.Polynomial Regression,
 3.Decision Tree Regressor,
 4.Random Forest Regressor,
